@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 ---
-Follow us on twitter: @mthoodskipatrol #mhsp #skipatrol
+Follow us on twitter: @mthoodskipatrol #mhsp #skipatrol 
 
 
 Mt Hood Ski Patrol
