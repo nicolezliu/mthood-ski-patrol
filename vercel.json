@@ -1,0 +1,7 @@
+{
+  "buildCommand": "hugo --gc --minify",
+  "outputDirectory": "public",
+  "functions": {
+    "api/*": { "runtime": "nodejs18.x" }
+  }
+}

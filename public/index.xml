@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Mt Hood Ski Patrol</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Mt Hood Ski Patrol</description>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/blog/welcome/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/welcome/</guid>
+      <description>&lt;p&gt;This is the first newsletter post.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Mission-focused volunteers supporting mountain safety and education.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Email: &lt;a href=&#34;mailto:info@mthood-ski-patrol.org&#34;&gt;info@mthood-ski-patrol.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mailing Address: 123 Example Rd, Government Camp, OR 97028&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Payments &amp; Donations</title>
+      <link>http://localhost:1313/payment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/payment/</guid>
+      <description>&lt;p&gt;Click the button to complete payment securely on PayPal.&lt;/p&gt;
+&lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; target=&#34;_top&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;REPLACE_WITH_YOUR_ID&#34;&gt;
+  &lt;table&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;&lt;td&gt;Your Name&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;&lt;input type=&#34;text&#34; name=&#34;os0&#34; maxlength=&#34;200&#34;&gt;&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;Purpose / Notes&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;&lt;input type=&#34;text&#34; name=&#34;os1&#34; maxlength=&#34;200&#34;&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+  &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;Pay Now&#34;&gt;
+&lt;/form&gt;</description>
+    </item>
+  </channel>
+</rss>

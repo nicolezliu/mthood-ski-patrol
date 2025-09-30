@@ -1,0 +1,21 @@
+baseURL = "https://mthood-ski-patrol.vercel.app/"
+languageCode = "en-us"
+title = "Mt Hood Ski Patrol"
+theme = "PaperMod"
+
+# important for CDN-friendly builds
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+  defaultTheme = "auto"
+  description = "Mt Hood Ski Patrol"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  disableHLJS = false
+
+[markup.goldmark.renderer]
+unsafe = true  # allow raw HTML for PayPal form
+
+[permalinks]
+  posts = "/blog/:slug/"
