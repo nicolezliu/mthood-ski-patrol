@@ -1,9 +1,0 @@
-{
-  "private": true,
-  "scripts": {
-    "build": "hugo --gc --minify"
-  },
-  "dependencies": {
-    "simple-oauth2": "^4.3.0"
-  }
-}
