@@ -19,3 +19,31 @@ unsafe = true  # allow raw HTML for PayPal form
 
 [permalinks]
   posts = "/blog/:slug/"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+  [[menu.main]]
+    identifier = "payment"
+    name = "Payment"
+    url = "/payment/"
+    weight = 4
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 5
