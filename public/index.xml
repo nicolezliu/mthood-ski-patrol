@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Payment on My New Hugo Site</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content in Payment on My New Hugo Site</description>
     <generator>Hugo -- 0.150.1</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 30 Sep 2025 15:59:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Sweep!</title>
+      <link>http://localhost:1313/blog/2025-09-30-the-sweep/</link>
+      <pubDate>Tue, 30 Sep 2025 15:59:00 -0700</pubDate>
+      <guid>http://localhost:1313/blog/2025-09-30-the-sweep/</guid>
+      <description>What is Lorem Ipsum?</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;For inquiries email: &lt;a href=&#34;mailto:patrol@example.org&#34;&gt;patrol@example.org&lt;/a&gt;&lt;br&gt;
+Phone: (555) 123-4567&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
