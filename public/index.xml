@@ -27,5 +27,87 @@
 &lt;p&gt;Voice Mail &amp;amp; Fax:
 866-828-9205&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Payments</title>
+      <link>http://localhost:1313/payment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/payment/</guid>
+      <description>&lt;h1 id=&#34;mt-hood-ski-patrol--payments&#34;&gt;Mt. Hood Ski Patrol – Payments&lt;/h1&gt;
+&lt;style&gt;
+body.page .post-content {
+  font-family: sans-serif;
+  max-width: 800px;
+}
+form {
+  margin: 2rem 0;
+  padding: 1rem;
+  background: #fff;
+  border: 1px solid #ccc;
+}
+h2 { color: #800000; margin-top: 3rem; }
+table { margin-bottom: 1rem; }
+input[type=&#34;text&#34;] {
+  width: 100%;
+  padding: 8px;
+  font-size: 1rem;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=&#34;text&#34;]:focus {
+  border-color: #800000;
+  outline: none;
+}
+&lt;/style&gt;
+&lt;h2 id=&#34;govy-building-payment&#34;&gt;Govy Building Payment&lt;/h2&gt;
+&lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; target=&#34;_top&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;3JDVUX5A5QACY&#34;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;Your Name&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;input type=&#34;text&#34; name=&#34;os0&#34; maxlength=&#34;200&#34;&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Date of Stay&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;input type=&#34;text&#34; name=&#34;os1&#34; maxlength=&#34;200&#34;&gt;&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+  &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif&#34; name=&#34;submit&#34; alt=&#34;Buy Now&#34;&gt;
+&lt;/form&gt;
+&lt;h2 id=&#34;donate-to-mhsp&#34;&gt;Donate to MHSP&lt;/h2&gt;
+&lt;form action=&#34;https://www.paypal.com/donate&#34; method=&#34;post&#34; target=&#34;_top&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;68KPRBMF66L8S&#34;&gt;
+  &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif&#34; name=&#34;submit&#34; alt=&#34;Donate with PayPal&#34;&gt;
+&lt;/form&gt;
+&lt;h2 id=&#34;hill--associate-dues&#34;&gt;Hill / Associate Dues&lt;/h2&gt;
+&lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; target=&#34;_top&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;2JFHK39AXDBMG&#34;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;MHSP#&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;input type=&#34;text&#34; name=&#34;os0&#34; maxlength=&#34;200&#34;&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Last Name&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;input type=&#34;text&#34; name=&#34;os1&#34; maxlength=&#34;200&#34;&gt;&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+  &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif&#34; name=&#34;submit&#34; alt=&#34;Pay Now&#34;&gt;
+&lt;/form&gt;
+&lt;h2 id=&#34;host-dues&#34;&gt;Host Dues&lt;/h2&gt;
+&lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; target=&#34;_top&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;NJ62K9LTZ53EA&#34;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;MHSP#&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;input type=&#34;text&#34; name=&#34;os0&#34; maxlength=&#34;200&#34;&gt;&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+  &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif&#34; name=&#34;submit&#34; alt=&#34;Pay Now&#34;&gt;
+&lt;/form&gt;
+&lt;h2 id=&#34;clothing-committee-purchase&#34;&gt;Clothing Committee Purchase&lt;/h2&gt;
+&lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; target=&#34;_top&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;8S4RHQR29WUHA&#34;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;td&gt;Item(s) Description &amp; Qty:&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;input type=&#34;text&#34; name=&#34;os0&#34; maxlength=&#34;200&#34;&gt;&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+  &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif&#34; name=&#34;submit&#34; alt=&#34;Buy Now&#34;&gt;
+&lt;/form&gt;</description>
+    </item>
   </channel>
 </rss>
