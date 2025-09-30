@@ -2,6 +2,7 @@ backend:
   name: github
   repo: nicolezliu/mthood-ski-patrol
   branch: main
+  auth_type: implicit
   base_url: https://mthood-ski-patrol.vercel.app
   auth_endpoint: /api/auth
 
@@ -20,18 +21,21 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+
       - file: "content/about.md"
         label: "About Us"
         name: "about"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+
       - file: "content/contact.md"
         label: "Contact"
         name: "contact"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+
       - file: "content/payment.md"
         label: "Payment"
         name: "payment"
