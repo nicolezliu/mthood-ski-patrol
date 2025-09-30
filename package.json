@@ -4,6 +4,6 @@
     "build": "hugo --gc --minify"
   },
   "dependencies": {
-    "simple-oauth2": "^5.2.0"
+    "simple-oauth2": "^4.3.0"
   }
 }
