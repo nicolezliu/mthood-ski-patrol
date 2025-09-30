@@ -20,8 +20,12 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;For inquiries email: &lt;a href=&#34;mailto:patrol@example.org&#34;&gt;patrol@example.org&lt;/a&gt;&lt;br&gt;
-Phone: (555) 123-4567&lt;/p&gt;</description>
+      <description>&lt;p&gt;Follow us on twitter: @mthoodskipatrol #mhsp #skipatrol&lt;/p&gt;
+&lt;p&gt;Mt Hood Ski Patrol&lt;/p&gt;
+&lt;p&gt;PO Box 4384&lt;/p&gt;
+&lt;p&gt;Portland, OR 97208&lt;/p&gt;
+&lt;p&gt;Voice Mail &amp;amp; Fax:
+866-828-9205&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

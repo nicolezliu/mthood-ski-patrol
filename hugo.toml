@@ -4,7 +4,7 @@ title = 'My New Hugo Site'
 theme = 'PaperMod'
 [params]
   profileMode = { enabled = false }
-
+  homeInfoParams = false
 
 
 [menu]
