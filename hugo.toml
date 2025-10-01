@@ -1,6 +1,6 @@
 baseURL = 'https://mthood-ski-patrol.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'MHSP'
 theme = 'PaperMod'
 [params]
   profileMode = { enabled = false }
